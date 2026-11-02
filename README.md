@@ -1,10 +1,10 @@
 # El Tahuantinsuyo – Gestión del Imperio
 
-El Imperio Inca se sostenía gracias a una compleja red de organización social y comunitaria. La unidad básica de la sociedad era el Ayllu (comunidad de familias). Dentro de este sistema, cada miembro cumplía roles específicos y realizaba tareas obligatorias para el bienestar del imperio (la Mit'a).
+El Imperio Inca se sostenía gracias a una compleja red de organización social y comunitaria. La unidad básica de la sociedad era el Ayllu (comunidad de familias). Dentro de este sistema, cada miembro cumplía roles específicos y realizaba tareas obligatorias para el bienestar del imperio.
 
-Este es un sistema que busca calcular cómo las tareas comunitarias de la Mit'a aportan recursos a los depósitos centrales (Colcas) e impactan en la energía de los habitantes del Tahuantinsuyo.
+Este es un sistema que busca calcular cómo las tareas comunitarias aportan recursos a los depósitos centrales (_colcas_) e impactan en la energía de los habitantes del Tahuantinsuyo.
 
-## 1. Tareas de la Mit'a
+## 1. Tareas
 
 Cada tarea produce una cierta cantidad de recursos dependiendo del tiempo (medido en horas) que se le destine. En esta cultura se contemplan varios tipos de tareas descriptas mas abajo. Independientemente de cuál sea la tarea, el cálculo para saber cuántos recursos produce una tarea siempre depende del tiempo dedicado y del nivel de esfuerzo de la persona, siguiendo la fórmula: 
 
